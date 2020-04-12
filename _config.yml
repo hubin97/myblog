@@ -119,7 +119,12 @@ jsonContent:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# deploy:
+#   type: git
+#   repo: https://github.com/hubin97/hubin97.github.io.git
+#   branch: master
+
 deploy:
   type: git
-  repo: https://github.com/hubin97/hubin97.github.io.git
-  branch: master
+  repo: https://gitee.com/hubin_huang/blog.git #https://hubin_huang.gitee.io/blog
+  branch: master #/blog
