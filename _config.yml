@@ -126,5 +126,7 @@ jsonContent:
 
 deploy:
   type: git
-  repo: https://gitee.com/hubin_huang/blog.git #https://hubin_huang.gitee.io/blog
-  branch: master #/blog
+  repo: 
+    github: https://github.com/hubin97/hubin97.github.io.git
+    gitee: https://gitee.com/hubin_huang/blog.git
+  branch: master 
